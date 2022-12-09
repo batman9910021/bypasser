@@ -20,13 +20,13 @@ import os
 ##########################################################
 # ENVs
 
-GDTot_Crypt = os.environ.get("CRYPT","b0lDek5LSCt6ZjVRR2EwZnY4T1EvVndqeDRtbCtTWmMwcGNuKy8wYWpDaz0%3D")
+GDTot_Crypt = os.environ.get("CRYPT","eTAzVVJxYzVzbjJBRGJWWnF0QXkxaFVZV1pNa0ZBYXdqR1dkSjNLSXFyWT0%3D")
 Laravel_Session = os.environ.get("Laravel_Session","")
 XSRF_TOKEN = os.environ.get("XSRF_TOKEN","")
 DCRYPT = os.environ.get("DRIVEFIRE_CRYPT","")
-KCRYPT = os.environ.get("KOLOP_CRYPT","aWFicnVaNWh4TThRbzFqdkE2U2FKNmJOTWhvWkZmbWswaUFadTB5NXJ3RT0%3D")
-HCRYPT = os.environ.get("HUBDRIVE_CRYPT","Q29hdlpLUEZTSEJLUjVZRkZQSExLODFuWGVudUlNK0ZPZlZmS1hENWxZVT0%3D")
-KATCRYPT = os.environ.get("KATDRIVE_CRYPT","")
+KCRYPT = os.environ.get("KOLOP_CRYPT","V2wwSEVkL3NtR2V5aXBrU2hxT3NDaHV0MnpJekZ1dnlmZTdvL3FXQUtjcz0%3D")
+HCRYPT = os.environ.get("HUBDRIVE_CRYPT","SFN6blBBQUNYTkV3RnRMNVZqVFBKWTlmVUIwamZiM2NOWkhDSDNGMGlDbz0%3D")
+KATCRYPT = os.environ.get("KATDRIVE_CRYPT","eWUzbzVsRXBNZlZHQ01MbTFDRUFJZldpSUN0bWVLdDNiWmsxU1hyZFhkbz0%3D")
 
 
 ############################################################
